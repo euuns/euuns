@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://rvrlo.tistory.com/notice/7" target="_blank"><img src="https://img.shields.io/badge/Blog-000?style=flat-square&logo=TistoryogoColor=white"/>
+<a href="https://rvrlo.tistory.com/notice/7" target="_blank"><img src="https://img.shields.io/badge/Blog-8A9296?style=flat-square&logo=Tistory&logoColor=white"/>
