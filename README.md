@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **euuns/euuns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://rvrlo.tistory.com/notice/7" target="_blank"><img src="https://img.shields.io/badge/Blog-8A9296?style=flat-square&logo=Tistory&logoColor=white"/>
+<a href="https://rvrlo.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-8A9296?style=flat-square&logo=Tistory&logoColor=white"/>
+<a href="https://mail.naver.com/Write_popup23.nhn?cmd=compose&to=rvrlos@naver.com&subject=&attach%5B%5D" target="_blank"><img src="https://img.shields.io/badge/Naver Mail-while?style=flat-square&logo=Naver&logoColor=03C75A"/>
