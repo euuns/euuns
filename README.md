@@ -18,16 +18,19 @@ Here are some ideas to get you started:
 
 <br><br>
 <b>Language<b><br>
+  
 <img src="https://img.shields.io/badge/java-000000?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <br>
 <b>Framework<b><br>
+  
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 
 <br>
 <b>Platforms<b><br>
+  
 <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=Intellij&logoColor=white"/>
 <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
