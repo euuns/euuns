@@ -1,7 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=euuns%20&fontSize=65&fontAlign=75" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=euuns%20&fontSize=65&fontAlign=75" /></img>
 
 <center>
-  
 <a href="https://rvrlo.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-8A9296?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/rvrlos@naver.com-333?style=flat-square&logo=Gmail&logoColor=white"/>
 <br><br>
@@ -20,5 +19,4 @@
 <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=Intellij&logoColor=white"/>
 <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-
-  </center>
+</center>
