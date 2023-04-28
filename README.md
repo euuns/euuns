@@ -17,15 +17,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/rvrlos@naver.com-333?style=flat-square&logo=Gmail&logoColor=white"/>
 
 <br><br>
-<b>Language<b><br>
-  
+<b>Language<b><p>
 <img src="https://img.shields.io/badge/java-000000?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
   
 <br>
-<b>Framework<b><br>
-  
+<b>Framework<b><p>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 
