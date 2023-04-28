@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 
 <br/><br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euuns)](https://github.com/euuns/github-readme-stats.cercel.app/api?username=anuraghazra&show_icons=true&theme=swift)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euuns&theme=graywhite&show_icons=true&api/top-langs?username=euuns)
   </div>
 </body>
 
