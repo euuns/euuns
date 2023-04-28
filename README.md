@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 
   
 <br>
-<b>Platforms<b><br>
-  
+<b>Platforms<b><p>
 <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=Intellij&logoColor=white"/>
 <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
