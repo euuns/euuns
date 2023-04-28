@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=euuns%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=euuns%20&fontSize=90" />
 
 <center>
   
@@ -20,3 +20,5 @@
 <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=Intellij&logoColor=white"/>
 <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+
+  </center>
