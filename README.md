@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://rvrlo.tistory.com/notice/7" target="_blank"><img src="https://img.shields.io/badge/aiqfome-#7A1FA2?style=flat-square&logo=aiqfome&logoColor=#000"/></a>
+<a href="https://rvrlo.tistory.com/notice/7" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
