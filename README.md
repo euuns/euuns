@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=euuns%20&fontSize=65&fontAlign=75" />
 </header>
 
-<article>
+
   <body>
     <center>
     <a href="https://rvrlo.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-8A9296?style=flat-square&logo=Tistory&logoColor=white"/></a>
@@ -25,4 +25,4 @@
     <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
     </center>
   </body>
-</article>
+
