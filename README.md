@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=euuns%20&fontSize=65&fontAlign=75" /></img>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=euuns%20&fontSize=65&fontAlign=75" />
 
 <center>
 <a href="https://rvrlo.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-8A9296?style=flat-square&logo=Tistory&logoColor=white"/></a>
